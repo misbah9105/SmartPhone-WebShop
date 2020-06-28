@@ -1,0 +1,7 @@
+﻿@model List<WebApplication2.Models.Cart>
+        <div class="cart_details">
+            @Model.Sum(m=>m.Quan) <br />
+            <span class="border_cart"></span> Total: <span class="price">@Model.Sum(n=>n.Total)$</span>
+        </div>
+
+    

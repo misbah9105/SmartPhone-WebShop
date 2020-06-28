@@ -1,0 +1,637 @@
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\WebGrease.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\1933\Phát triển web\Project\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\admin\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Phát triển web\Project-Web(backup)\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\CCLaptop.com\Desktop\1933\Kiến trúc phần mềm\SmartPhone WebShop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

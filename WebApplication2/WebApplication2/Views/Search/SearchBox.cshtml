@@ -1,0 +1,13 @@
+﻿@model WebApplication2.Models.Product
+
+@*<div class="title_box">Search</div>
+    <div class="border_box">
+        <input type="text" name="keyword" class="newsletter_input" placeholder="Search" />
+        <a href="@Url.Action("SearchProd","Search",new {keyword=Model.ProductName })" class="join">search</a>
+    </div>*@
+@using (Html.BeginForm("SearchProd", "Search", FormMethod.Get))
+{
+    <input type="text" name="keyword" class="newsletter_input" placeholder="Search" />
+    <button  type="submit" class="join">Search</button>
+}
+

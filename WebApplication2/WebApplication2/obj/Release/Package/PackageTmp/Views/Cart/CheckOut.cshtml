@@ -1,0 +1,133 @@
+﻿@model List<WebApplication2.Models.Cart>
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<style>
+    th {
+        text-align: center;
+    }
+
+    a.back {
+        width: 180px;
+        height: 30px;
+        display: block;
+        float: left;
+        background: url(/images/menu_title_bg.gif) no-repeat center;
+        margin: 2px 0 0 5px;
+        text-align: center;
+        line-height: 24px;
+        text-decoration: none;
+        color: black;
+    }
+
+    a.back1 {
+        width: 180px;
+        height: 30px;
+        display: block;
+        float: right;
+        background: url(/images/menu_title_bg.gif) no-repeat center;
+        margin: 2px 0 0 5px;
+        text-align: center;
+        line-height: 24px;
+        text-decoration: none;
+        color: black;
+    }
+</style>
+<section>
+    <div class="center_content">
+        <div class="center_title_bar">CHECKOUT</div>
+        @if (Model == null || Model.Count == 0)
+        {
+            <span style="margin-left:100px; color: red; margin-top: 500px;"><h1>Shopping Cart is empty !</h1></span>
+        }
+        else
+        {
+            <div>
+                <table cellspacing="5" cellpadding="5" style="border: 1px solid black;">
+                    <thead>
+                        <tr class="cart_menu">
+                            <td class="product_img">Image</td>
+                            <td>Product name</td>
+                            <td>Price</td>
+                            <td>Quantity</td>
+                            <td>Total</td>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td style=" width:90px">
+                                    <div class="product_img"><img src="@item.Image" alt="" border="0" height="71" width="94" /></div>
+                                </td>
+                                <td class="cart_description" style="text-align:left; width:150px">
+                                    <h4><a href='@Url.Action("Detail", "Category", new { productID = item.IDPro })'>@item.Name </a></h4>
+                                </td>
+                                <td class="cart_price" style=" width:50px">
+                                    <h5>@item.Price</h5>
+                                </td>
+                                <td style="width:130px">
+                                    <form action="@Url.Action("Updated",new { id = item.IDPro})" method="get">
+                                        <input type="hidden" name="IDSP" value="@item.IDPro" />
+                                        <input type="text" name="newQuan" class="txtQuantity" style="height: 20px; width:50px" value="@item.Quan" />
+                                    </form>
+                                </td>
+                                @*<td class="cart_price" style=" width:50px">
+                                    @{
+                                        List<WebApplication2.Models.Cart> temp = (List<WebApplication2.Models.Cart>)Session["Cart"];
+                                    }
+                                    <h5>@Model.Sum(m=>m.Quan)</h5>
+                                </td>*@
+                                <td class="cart_total" style="width:60px">
+                                    <p class="cart_total_price">$ @(item.Quan * item.Price) </p>
+                                </td>
+                            </tr>
+                        }
+
+                        <tr>
+
+                            <td> <p style="text-align:right">Total:</p></td>
+                            <td><p class="cart_total_price">@Model.Sum(m => m.Total) $</p></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="prod_details_tab">  </div>
+            </div>
+        }
+        @using(Html.BeginForm("ProcessOrder","Cart",FormMethod.Post,new{ id="customer-form"}))
+        { 
+        <table>
+            <tr>
+                <td>Customer's Information</td>
+            </tr>
+            <tr>
+                <td>Customer name:</td>
+                <td><input type="text" name="cusName" /></td>
+            </tr>
+            <tr>
+                <td>Customer Address:</td>
+                <td><input type="text" name="cusAddress" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Continue to payment" /></td>
+            </tr>
+        </table>
+        }
+    </div>
+</section>
+@*textbox cusname and address must be required*@
+<script type="text/javascript">
+    $("#customer-form").validate({
+        rules: {
+            cusName: {
+                required: true
+            },
+            cusAddress: {
+                required: true
+            }
+        }
+    });
+</script>

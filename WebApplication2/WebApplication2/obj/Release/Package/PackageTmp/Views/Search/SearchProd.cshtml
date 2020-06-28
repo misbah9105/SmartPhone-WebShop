@@ -1,0 +1,35 @@
+﻿@model List<WebApplication2.Models.Product>
+@{
+    ViewBag.Title = "Search";
+}
+
+
+<div class="center_content">
+    <div class="oferta">
+        <img src="~/images/p1.png" width="165" height="113" border="0" class="oferta_img" alt="" />
+        <div class="oferta_details">
+            <div class="oferta_title">Power Tools BST18XN Cordless</div>
+            <div class="oferta_text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </div>
+            <a href="http://all-free-download.com/free-website-templates/" class="prod_buy">details</a>
+        </div>
+    </div>
+    <div class="center_title_bar">All Products</div>
+    @foreach (var pro in Model)
+    {
+        <div class="prod_box">
+            <div class="center_prod_box">
+                <div class="product_title"><a href="http://all-free-download.com/free-website-templates/">@pro.ProductName</a></div>
+                <div class="product_img"><a href="http://all-free-download.com/free-website-templates/"><img src="@pro.Image" alt="" border="0" height="71" width="94" /></a></div>
+                <div class="prod_price"><span class="price">@pro.Price $</span></div>
+            </div>
+            <div class="prod_details_tab">
+
+
+                <a href="@Url.Action("AddToCart","Cart",new {id=pro.IDProduct })" class="prod_buy">Add to Cart</a>
+
+
+                <a href="@Url.Action("Detail","Category",new {productID=pro.IDProduct })" class="prod_details">Details</a>
+            </div>        
+        </div>
+    }
+</div>

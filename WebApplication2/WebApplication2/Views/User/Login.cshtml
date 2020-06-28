@@ -1,0 +1,52 @@
+﻿@model WebApplication2.Models.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table, th, td {
+            border: 1px white;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="center_content">
+
+        @using (Html.BeginForm("Login", "User", FormMethod.Post))
+        {
+        <table style="width:100%">
+            <tr>
+                <td align="right">Username<br></td>
+                <td>@Html.TextBoxFor(n => n.username)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>@Html.ValidationMessageFor(n => n.username, "", new { @class = "text-danger" })<br></td>
+            </tr>
+            <tr>
+                <td align="right">Password<br></td>
+                <td>@Html.PasswordFor(n => n.Password)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>@Html.ValidationMessageFor(n => n.Password, "", new { @class = "text-danger" })<br></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>@ViewBag.notification</td>
+            </tr>
+        </table>
+            <br>
+            <input type="submit" value="Login" style="margin-left: 37%">
+
+        }
+    </div>
+</body>
+</html>
